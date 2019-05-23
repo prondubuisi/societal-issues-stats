@@ -25,7 +25,7 @@
 | Social Issue  |  Data | Source | 
 |---|---|---|
 | Child labour Data Collection |  |  |
-| Racial data collection |  |  |
+| Racial data collection | More than 250 ethnic groups, including Hausa and Fulani 29%, Yoruba 21%, Ibo 18%, Ijaw 10%, Kanuri 4%, Ibibio 3.5%, Tiv 2.5%  | [infoplease](https://www.infoplease.com/ethnicity-and-race-countries)  |
 | Warzones Data Collection |  |  |
 | Sexual orientation Data Collection|  |  |
 | People w/ disabilities Data Collection |  |  |
