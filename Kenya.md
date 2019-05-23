@@ -28,7 +28,7 @@
 | Sexual orientation Data Collection|  |  |
 | People w/ disabilities Data Collection |  |  |
 | Refugees Data Collection |  |  |
-| Religion Data collection |  |  |
+| Religion Data collection | Protestant 45%, Roman Catholic 33%, indigenous beliefs 10%, Islam 10%, others 2% (note: estimates vary widely) | [infoplease](https://www.infoplease.com/world/countries/world-religions) |
 | Child Deaths Data Collection |  |  |
 | People lacking in basic Food |  |  |
 | People lacking in basic Water |  |  |
