@@ -28,7 +28,7 @@
 | Sexual orientation Data Collection|  |  |
 | People w/ disabilities Data Collection |  |  |
 | Refugees Data Collection |  |  |
-| Religion Data collection |  |  |
+| Religion Data collection | Zion Christian 11%, Pentecostal/Charismatic 8%, Catholic 7%, Methodist 7%, Dutch Reformed 7%, Anglican 4%, other Christian 36%, Islam 2%, none 15% (2001) | [infoplease](https://www.infoplease.com/world/countries/world-religions) |
 | Child Deaths Data Collection |  |  |
 | People lacking in basic Food |  |  |
 | People lacking in basic Water |  |  |
