@@ -23,7 +23,7 @@
 | Socia Issue  |  Data | Source | 
 |---|---|---|
 | Child labour Data Collection |  |  |
-| Racial data collection |  |  |
+| Racial data collection | Kikuyu 22%; Luhya 14%; Luo 13%; Kalenjin 12%; Kamba 11%; Kisii 6%; Meru 6%; other African 15%; Asian, European, and Arab 1% | [infoplease](https://www.infoplease.com/ethnicity-and-race-countries) |
 | Warzones Data Collection |  |  |
 | Sexual orientation Data Collection|  |  |
 | People w/ disabilities Data Collection |  |  |
