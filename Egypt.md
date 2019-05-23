@@ -23,7 +23,7 @@
 | Social Issue  |  Data | Source | 
 |---|---|---|
 | Child labour Data Collection |  |  |
-| Racial data collection |  |  |
+| Racial data collection | Egyptian 98%, Berber, Nubian, Bedouin, and Beja 1%, Greek, Armenian, other European (primarily Italian and French) 1% | [infoplease](https://www.infoplease.com/ethnicity-and-race-countries) |
 | Warzones Data Collection |  |  |
 | Sexual orientation Data Collection|  |  |
 | People w/ disabilities Data Collection |  |  |
