@@ -23,7 +23,7 @@
 | Socia Issue  |  Data | Source | 
 |---|---|---|
 | Child labour Data Collection |  |  |
-| Racial data collection |  |  |
+| Racial data collection | black African 79%, white 9.6%, colored 8.9%, Indian/Asian 2.5% (2001) | [infoplease](https://www.infoplease.com/ethnicity-and-race-countries) |
 | Warzones Data Collection |  |  |
 | Sexual orientation Data Collection|  |  |
 | People w/ disabilities Data Collection |  |  |
